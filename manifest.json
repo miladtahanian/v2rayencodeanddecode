@@ -1,6 +1,6 @@
 {
 	"name": "RaySMS",
-	"start_url": "/",
+	"start_url": "/v2rayencodeanddecode/",
 	"display": "standalone",
 	"icons": [
 		{
